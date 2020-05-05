@@ -1,0 +1,24 @@
+{
+  "name": "random-string-generator-module",
+  "version": "0.10.0",
+  "description": "A module that returns a random alphanumeric string",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anagharajan/random-string-generator-module.git"
+  },
+  "keywords": [
+    "string",
+    "random",
+    "alphanumeric"
+  ],
+  "author": "anagha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anagharajan/random-string-generator-module/issues"
+  },
+  "homepage": "https://github.com/anagharajan/random-string-generator-module#readme"
+}
